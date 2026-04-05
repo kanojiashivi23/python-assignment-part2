@@ -60,7 +60,7 @@ The goal of this project was to practice working with Python data structures lik
 ---
 
 ## 📂 Project File
-- `part2_order_system.py`
+- `part2_order_system.ipynb`
 
 ---
 
